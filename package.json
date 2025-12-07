@@ -1,0 +1,22 @@
+{
+  "name": "bible-compagnon",
+  "version": "1.0.0",
+  "description": "Application de lecture biblique en français pour le Québec",
+  "main": "app.html",
+  "scripts": {
+    "start": "python3 -m http.server 8000 || python -m SimpleHTTPServer 8000",
+    "dev": "npx serve -p 8000",
+    "deploy": "netlify deploy --prod"
+  },
+  "keywords": [
+    "bible",
+    "french",
+    "québec",
+    "pwa",
+    "mobile"
+  ],
+  "author": "Bible Compagnon",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {}
+}

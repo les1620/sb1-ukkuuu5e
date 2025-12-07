@@ -1,0 +1,159 @@
+{
+  "version": "Louis Segond 1910",
+  "language": "fr",
+  "books": [
+    {
+      "id": "GEN",
+      "name": "Genèse",
+      "testament": "AT",
+      "chapters": [
+        {
+          "number": 1,
+          "verses": [
+            {"number": 1, "text": "Au commencement, Dieu créa les cieux et la terre."},
+            {"number": 2, "text": "La terre était informe et vide: il y avait des ténèbres à la surface de l'abîme, et l'esprit de Dieu se mouvait au-dessus des eaux."},
+            {"number": 3, "text": "Dieu dit: Que la lumière soit! Et la lumière fut."},
+            {"number": 4, "text": "Dieu vit que la lumière était bonne; et Dieu sépara la lumière d'avec les ténèbres."},
+            {"number": 5, "text": "Dieu appela la lumière jour, et il appela les ténèbres nuit. Ainsi, il y eut un soir, et il y eut un matin: ce fut le premier jour."}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PSA",
+      "name": "Psaumes",
+      "testament": "AT",
+      "chapters": [
+        {
+          "number": 23,
+          "verses": [
+            {"number": 1, "text": "L'Éternel est mon berger: je ne manquerai de rien."},
+            {"number": 2, "text": "Il me fait reposer dans de verts pâturages, Il me dirige près des eaux paisibles."},
+            {"number": 3, "text": "Il restaure mon âme, Il me conduit dans les sentiers de la justice, À cause de son nom."},
+            {"number": 4, "text": "Quand je marche dans la vallée de l'ombre de la mort, Je ne crains aucun mal, car tu es avec moi: Ta houlette et ton bâton me rassurent."},
+            {"number": 5, "text": "Tu dresses devant moi une table, En face de mes adversaires; Tu oins d'huile ma tête, Et ma coupe déborde."},
+            {"number": 6, "text": "Oui, le bonheur et la grâce m'accompagneront Tous les jours de ma vie, Et j'habiterai dans la maison de l'Éternel Jusqu'à la fin de mes jours."}
+          ]
+        },
+        {
+          "number": 91,
+          "verses": [
+            {"number": 1, "text": "Celui qui demeure sous l'abri du Très Haut Repose à l'ombre du Tout Puissant."},
+            {"number": 2, "text": "Je dis à l'Éternel: Mon refuge et ma forteresse, Mon Dieu en qui je me confie!"},
+            {"number": 3, "text": "Car c'est lui qui te délivre du filet de l'oiseleur, De la peste et de ses ravages."},
+            {"number": 4, "text": "Il te couvrira de ses plumes, Et tu trouveras un refuge sous ses ailes; Sa fidélité est un bouclier et une cuirasse."}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MAT",
+      "name": "Matthieu",
+      "testament": "NT",
+      "chapters": [
+        {
+          "number": 5,
+          "verses": [
+            {"number": 1, "text": "Voyant la foule, Jésus monta sur la montagne; et, après qu'il se fut assis, ses disciples s'approchèrent de lui."},
+            {"number": 2, "text": "Puis, ayant ouvert la bouche, il les enseigna, et dit:"},
+            {"number": 3, "text": "Heureux les pauvres en esprit, car le royaume des cieux est à eux!"},
+            {"number": 4, "text": "Heureux les affligés, car ils seront consolés!"},
+            {"number": 5, "text": "Heureux les débonnaires, car ils hériteront la terre!"},
+            {"number": 6, "text": "Heureux ceux qui ont faim et soif de la justice, car ils seront rassasiés!"},
+            {"number": 7, "text": "Heureux les miséricordieux, car ils obtiendront miséricorde!"},
+            {"number": 8, "text": "Heureux ceux qui ont le cœur pur, car ils verront Dieu!"},
+            {"number": 9, "text": "Heureux ceux qui procurent la paix, car ils seront appelés fils de Dieu!"},
+            {"number": 10, "text": "Heureux ceux qui sont persécutés pour la justice, car le royaume des cieux est à eux!"}
+          ]
+        },
+        {
+          "number": 6,
+          "verses": [
+            {"number": 9, "text": "Voici donc comment vous devez prier: Notre Père qui es aux cieux! Que ton nom soit sanctifié;"},
+            {"number": 10, "text": "que ton règne vienne; que ta volonté soit faite sur la terre comme au ciel."},
+            {"number": 11, "text": "Donne-nous aujourd'hui notre pain quotidien;"},
+            {"number": 12, "text": "pardonne-nous nos offenses, comme nous aussi nous pardonnons à ceux qui nous ont offensés;"},
+            {"number": 13, "text": "ne nous induis pas en tentation, mais délivre-nous du malin. Car c'est à toi qu'appartiennent, dans tous les siècles, le règne, la puissance et la gloire. Amen!"}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "JHN",
+      "name": "Jean",
+      "testament": "NT",
+      "chapters": [
+        {
+          "number": 1,
+          "verses": [
+            {"number": 1, "text": "Au commencement était la Parole, et la Parole était avec Dieu, et la Parole était Dieu."},
+            {"number": 2, "text": "Elle était au commencement avec Dieu."},
+            {"number": 3, "text": "Toutes choses ont été faites par elle, et rien de ce qui a été fait n'a été fait sans elle."},
+            {"number": 4, "text": "En elle était la vie, et la vie était la lumière des hommes."},
+            {"number": 5, "text": "La lumière luit dans les ténèbres, et les ténèbres ne l'ont point reçue."},
+            {"number": 14, "text": "Et la parole a été faite chair, et elle a habité parmi nous, pleine de grâce et de vérité; et nous avons contemplé sa gloire, une gloire comme la gloire du Fils unique venu du Père."}
+          ]
+        },
+        {
+          "number": 3,
+          "verses": [
+            {"number": 16, "text": "Car Dieu a tant aimé le monde qu'il a donné son Fils unique, afin que quiconque croit en lui ne périsse point, mais qu'il ait la vie éternelle."},
+            {"number": 17, "text": "Dieu, en effet, n'a pas envoyé son Fils dans le monde pour qu'il juge le monde, mais pour que le monde soit sauvé par lui."}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1CO",
+      "name": "1 Corinthiens",
+      "testament": "NT",
+      "chapters": [
+        {
+          "number": 13,
+          "verses": [
+            {"number": 1, "text": "Quand je parlerais les langues des hommes et des anges, si je n'ai pas l'amour, je suis un airain qui résonne, ou une cymbale qui retentit."},
+            {"number": 2, "text": "Et quand j'aurais le don de prophétie, la science de tous les mystères et toute la connaissance, quand j'aurais même toute la foi jusqu'à transporter des montagnes, si je n'ai pas l'amour, je ne suis rien."},
+            {"number": 3, "text": "Et quand je distribuerais tous mes biens pour la nourriture des pauvres, quand je livrerais même mon corps pour être brûlé, si je n'ai pas l'amour, cela ne me sert de rien."},
+            {"number": 4, "text": "L'amour est patient, il est plein de bonté; l'amour n'est point envieux; l'amour ne se vante point, il ne s'enfle point d'orgueil,"},
+            {"number": 5, "text": "il ne fait rien de malhonnête, il ne cherche point son intérêt, il ne s'irrite point, il ne soupçonne point le mal,"},
+            {"number": 6, "text": "il ne se réjouit point de l'injustice, mais il se réjouit de la vérité;"},
+            {"number": 7, "text": "il excuse tout, il croit tout, il espère tout, il supporte tout."},
+            {"number": 8, "text": "L'amour ne périt jamais. Les prophéties prendront fin, les langues cesseront, la connaissance disparaîtra."},
+            {"number": 13, "text": "Maintenant donc ces trois choses demeurent: la foi, l'espérance, l'amour; mais la plus grande de ces choses, c'est l'amour."}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PHP",
+      "name": "Philippiens",
+      "testament": "NT",
+      "chapters": [
+        {
+          "number": 4,
+          "verses": [
+            {"number": 4, "text": "Réjouissez-vous toujours dans le Seigneur; je le répète, réjouissez-vous."},
+            {"number": 6, "text": "Ne vous inquiétez de rien; mais en toute chose faites connaître vos besoins à Dieu par des prières et des supplications, avec des actions de grâces."},
+            {"number": 7, "text": "Et la paix de Dieu, qui surpasse toute intelligence, gardera vos cœurs et vos pensées en Jésus Christ."},
+            {"number": 8, "text": "Au reste, frères, que tout ce qui est vrai, tout ce qui est honorable, tout ce qui est juste, tout ce qui est pur, tout ce qui est aimable, tout ce qui mérite l'approbation, ce qui est vertueux et digne de louange, soit l'objet de vos pensées."},
+            {"number": 13, "text": "Je puis tout par celui qui me fortifie."}
+          ]
+        }
+      ]
+    },
+    {
+      "id": "PRO",
+      "name": "Proverbes",
+      "testament": "AT",
+      "chapters": [
+        {
+          "number": 3,
+          "verses": [
+            {"number": 5, "text": "Confie-toi en l'Éternel de tout ton cœur, Et ne t'appuie pas sur ta sagesse;"},
+            {"number": 6, "text": "Reconnais-le dans toutes tes voies, Et il aplanira tes sentiers."}
+          ]
+        }
+      ]
+    }
+  ]
+}
