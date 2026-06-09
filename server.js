@@ -1,5 +1,5 @@
 /**
- * Axial Inspection — Express Backend
+ * Axe Inspection — Express Backend
  *
  * Sert les fichiers statiques et expose un endpoint
  * de formulaire de contact via /api/contact.
@@ -150,7 +150,7 @@ app.get('*', (req, res) => {
 
 // ─── START ────────────────────────────────────────────────────────────────────
 app.listen(PORT, () => {
-  console.log(`Axial Inspection — serveur démarré sur http://localhost:${PORT}`);
+  console.log(`Axe Inspection — serveur démarré sur http://localhost:${PORT}`);
   if (!transporter) {
     console.log('ℹ️  SMTP non configuré — les messages seront affichés dans la console.');
     console.log('   Créez un fichier .env avec SMTP_HOST, SMTP_USER, SMTP_PASS et MAIL_TO.');
