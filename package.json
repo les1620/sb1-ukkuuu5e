@@ -1,22 +1,20 @@
 {
-  "name": "bible-compagnon",
+  "name": "axial-inspection",
   "version": "1.0.0",
-  "description": "Application de lecture biblique en français pour le Québec",
-  "main": "app.html",
+  "description": "Site web d'Axial Inspection — Services d'inspection industrielle",
+  "main": "server.js",
   "scripts": {
-    "start": "python3 -m http.server 8000 || python -m SimpleHTTPServer 8000",
-    "dev": "npx serve -p 8000",
-    "deploy": "netlify deploy --prod"
+    "start": "node server.js",
+    "dev": "node server.js"
   },
-  "keywords": [
-    "bible",
-    "french",
-    "québec",
-    "pwa",
-    "mobile"
-  ],
-  "author": "Bible Compagnon",
+  "keywords": ["inspection", "CND", "industriel", "Québec"],
+  "author": "Axial Inspection",
   "license": "MIT",
-  "devDependencies": {},
-  "dependencies": {}
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "helmet": "^7.1.0",
+    "nodemailer": "^6.9.7"
+  }
 }
