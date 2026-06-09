@@ -5,17 +5,17 @@
 /* 1. VARIABLES & RESET
    ============================================ */
 :root {
-  --dark:        #080C14;
-  --dark-2:      #0D1421;
-  --card:        #101926;
-  --card-hover:  #131F30;
-  --navy:        #182840;
-  --border:      #1A2B3C;
-  --border-light:#223245;
+  --dark:        #1A1A2E;
+  --dark-2:      #16213E;
+  --card:        #0F3460;
+  --card-hover:  #1A4A7A;
+  --navy:        #1B2A5E;
+  --border:      #1E3A6E;
+  --border-light:#2A4A80;
 
-  --accent:      #C8993C;
-  --accent-light:#E0B65C;
-  --accent-dim:  rgba(200, 153, 60, 0.12);
+  --accent:      #4A9EFF;
+  --accent-light:#6DB3FF;
+  --accent-dim:  rgba(74, 158, 255, 0.12);
 
   --text:        #E2E8F0;
   --text-muted:  #7A8FA0;
@@ -139,7 +139,7 @@ h1, h2, h3, h4 {
 .btn--primary:hover {
   background: var(--accent-light);
   transform: translateY(-2px);
-  box-shadow: 0 8px 24px rgba(200, 153, 60, 0.3);
+  box-shadow: 0 8px 24px rgba(74, 158, 255, 0.3);
 }
 
 .btn--ghost {
@@ -169,7 +169,7 @@ h1, h2, h3, h4 {
 }
 
 .nav.scrolled {
-  background: rgba(8, 12, 20, 0.95);
+  background: rgba(26, 26, 46, 0.95);
   backdrop-filter: blur(12px);
   -webkit-backdrop-filter: blur(12px);
   box-shadow: 0 1px 0 var(--border);
@@ -283,8 +283,8 @@ h1, h2, h3, h4 {
   position: absolute;
   inset: 0;
   background-image:
-    linear-gradient(rgba(200, 153, 60, 0.04) 1px, transparent 1px),
-    linear-gradient(90deg, rgba(200, 153, 60, 0.04) 1px, transparent 1px);
+    linear-gradient(rgba(74, 158, 255, 0.04) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(74, 158, 255, 0.04) 1px, transparent 1px);
   background-size: 72px 72px;
   mask-image: radial-gradient(ellipse at 50% 40%, black 30%, transparent 80%);
 }
@@ -297,7 +297,7 @@ h1, h2, h3, h4 {
   width: 600px;
   height: 600px;
   border-radius: 50%;
-  background: radial-gradient(circle, rgba(200, 153, 60, 0.06) 0%, transparent 70%);
+  background: radial-gradient(circle, rgba(74, 158, 255, 0.06) 0%, transparent 70%);
   pointer-events: none;
 }
 
@@ -318,9 +318,9 @@ h1, h2, h3, h4 {
   letter-spacing: 0.1em;
   text-transform: uppercase;
   color: var(--accent);
-  border: 1px solid rgba(200, 153, 60, 0.25);
+  border: 1px solid rgba(74, 158, 255, 0.25);
   border-radius: 100px;
-  background: rgba(200, 153, 60, 0.06);
+  background: rgba(74, 158, 255, 0.06);
   margin-bottom: 1.75rem;
 }
 
@@ -534,12 +534,12 @@ h1, h2, h3, h4 {
 .about__ring {
   position: absolute;
   border-radius: 50%;
-  border: 1px solid rgba(200, 153, 60, 0.1);
+  border: 1px solid rgba(74, 158, 255, 0.1);
   animation: spin-slow linear infinite;
 }
 .about__ring--1 { inset: 0; animation-duration: 40s; }
 .about__ring--2 { inset: 15%; animation-duration: 28s; animation-direction: reverse; }
-.about__ring--3 { inset: 30%; animation-duration: 20s; border-color: rgba(200, 153, 60, 0.2); }
+.about__ring--3 { inset: 30%; animation-duration: 20s; border-color: rgba(74, 158, 255, 0.2); }
 
 @keyframes spin-slow { to { transform: rotate(360deg); } }
 
@@ -649,7 +649,7 @@ h1, h2, h3, h4 {
 
 .cert-badge:hover {
   color: var(--accent);
-  border-color: rgba(200, 153, 60, 0.35);
+  border-color: rgba(74, 158, 255, 0.35);
 }
 
 /* 11. PROCESS
@@ -808,7 +808,7 @@ h1, h2, h3, h4 {
 }
 
 .form-input::placeholder { color: var(--text-dim); }
-.form-input:focus { border-color: var(--accent); box-shadow: 0 0 0 3px rgba(200, 153, 60, 0.12); }
+.form-input:focus { border-color: var(--accent); box-shadow: 0 0 0 3px rgba(74, 158, 255, 0.12); }
 .form-input.error { border-color: #e05252; box-shadow: 0 0 0 3px rgba(224, 82, 82, 0.1); }
 
 .form-select {
@@ -940,7 +940,7 @@ h1, h2, h3, h4 {
     top: 72px;
     left: 0;
     right: 0;
-    background: rgba(8, 12, 20, 0.98);
+    background: rgba(26, 26, 46, 0.98);
     backdrop-filter: blur(12px);
     flex-direction: column;
     padding: 1.5rem;
